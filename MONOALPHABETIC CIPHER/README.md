@@ -38,7 +38,7 @@ Enter the string you want to encrypt: hello
 ```
 Ciphertext: itssg  
 ```  
-![SmartSelect_20250204_125609_M365 Copilot.jpg](https://github.com/user-attachments/assets/e46cac66-c00c-4e8c-9deb-79bb222aaa7e)
+![SmartSelect_20250204_125609_M365 Copilot.jpg](https://github.com/user-attachments/assets/66392562-3b6c-47ab-b5d4-7021d7f1fc87)
 
 
 ## Limitations  
