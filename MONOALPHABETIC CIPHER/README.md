@@ -24,7 +24,7 @@ This script implements a **Monoalphabetic Cipher**, a type of substitution ciphe
 2. Copy the script into a Python file (e.g., `monoalphabetic_cipher.py`).  
 3. Run the script using:  
    ```bash  
-   python monoalphabetic_cipher.py  
+   python3 monoalphabetic_cipher.py  
    ```  
 4. Enter the replacement alphabet and plaintext when prompted.  
 
