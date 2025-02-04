@@ -38,6 +38,9 @@ Enter the string you want to encrypt: hello
 ```
 Ciphertext: itssg  
 ```  
+![SmartSelect_20250204_125609_M365 Copilot.jpg](https://github.com/user-attachments/assets/e46cac66-c00c-4e8c-9deb-79bb222aaa7e)
+
+
 
 ## Limitations  
 - The replacement alphabet must contain **exactly 26 unique lowercase letters**.  
