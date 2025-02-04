@@ -30,7 +30,8 @@ This script implements the **Caesar Cipher** encryption and decryption algorithm
    ```  
 4. Enter the plaintext and key when prompted.  
 
- ![image](https://github.com/user-attachments/assets/875ed5fd-db19-4beb-a127-ff447ade67c1)
+OUTPUT
+
 
  
 
