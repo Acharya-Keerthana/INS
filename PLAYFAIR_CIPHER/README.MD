@@ -28,9 +28,7 @@ This script implements the Playfair Cipher encryption algorithm in Python. The P
 5. The encrypted text will be displayed in the output.  
 ```  
 ![alt text](image.png)
- 
- ## Link to the codespace:
- /workspaces/INS/PLAYFAIR_CIPHER/playfaircipher.py
+ ```
 
 ## License  
 This script is open-source and can be modified or used for educational purposes.

@@ -26,7 +26,7 @@ This script implements the **Caesar Cipher** encryption and decryption algorithm
 2. Copy the script into a Python file (e.g., `caesar_cipher.py`).  
 3. Run the script using:  
    ```bash  
-   python caesar_cipher.py  
+   python3 caesar_cipher.py  
    ```  
 4. Enter the plaintext and key when prompted.  
 
@@ -34,8 +34,6 @@ OUTPUT
 
 ![SmartSelect_20250204_124302_Dropbox.jpg](https://github.com/user-attachments/assets/361107fe-cea9-48c5-ac17-4446741751df)
 
-## Link to the codespace
-/workspaces/INS/CEASES_CIPHER/ceasescipher.py
 
 ## License  
 This script is open-source and can be used for educational purposes.
