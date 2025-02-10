@@ -34,6 +34,8 @@ OUTPUT
 
 ![SmartSelect_20250204_124302_Dropbox.jpg](https://github.com/user-attachments/assets/361107fe-cea9-48c5-ac17-4446741751df)
 
+## Link to the codespace
+/workspaces/INS/CEASES_CIPHER/ceasescipher.py
 
 ## License  
 This script is open-source and can be used for educational purposes.

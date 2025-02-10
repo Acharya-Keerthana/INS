@@ -43,7 +43,10 @@ Ciphertext: itssg
 
 ## Limitations  
 - The replacement alphabet must contain **exactly 26 unique lowercase letters**.  
-- Only lowercase letters are encrypted (uppercase letters remain unchanged).  
+- Only lowercase letters are encrypted (uppercase letters remain unchanged). 
+ 
+## Link to the codespace:
+/workspaces/INS/MONOALPHABETIC CIPHER/monoalphabetic.py
 
 ## License  
 This script is open-source and can be used for educational purposes.
