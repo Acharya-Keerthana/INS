@@ -51,7 +51,7 @@ Key Matrix:
 Encrypted: ZEBBW  
 ```  
 ![alt text](image.png)
- 
+ ```
 ```   
 ## **Future Improvements**  
 - Implement **decryption** using the inverse key matrix.  
