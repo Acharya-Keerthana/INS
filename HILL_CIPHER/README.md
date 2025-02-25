@@ -52,5 +52,7 @@ Encrypted: ZEBBW
 ```  
 ![alt text](image-1.png)
  ```
-```   
+```
+## Online demo
+you can run this code directly via https://onlinegdb.com/DZOklGYSu
 
