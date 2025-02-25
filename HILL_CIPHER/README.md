@@ -50,7 +50,7 @@ Key Matrix:
 ```
 Encrypted: ZEBBW  
 ```  
-![alt text](image.png)
+![alt text](image-1.png)
  ```
 ```   
 ## **Future Improvements**  
