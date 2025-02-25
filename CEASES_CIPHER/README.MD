@@ -37,3 +37,6 @@ OUTPUT
 
 ## License  
 This script is open-source and can be used for educational purposes.
+
+## Online
+https://onlinegdb.com/O2a1oMrUl
