@@ -53,10 +53,4 @@ Encrypted: ZEBBW
 ![alt text](image-1.png)
  ```
 ```   
-## **Future Improvements**  
-- Implement **decryption** using the inverse key matrix.  
-- Extend support for **lowercase letters and special characters**.  
-- Allow users to input **custom key matrices dynamically**.  
 
-## **License**  
-This script is open-source and can be used for educational and research purposes.
