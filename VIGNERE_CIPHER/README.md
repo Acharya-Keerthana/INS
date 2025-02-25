@@ -47,9 +47,8 @@ This Python script provides simple functions to encrypt and decrypt text using t
 ## Example
 ![alt text](image.png)
 
-## Online Demo
-
-You can run this code directly online via [Replit](https://replit.com/languages/python3).
+## Online demo
+you can run this code directly via https://onlinegdb.com/VZFL1Ob0E
 
 
 
