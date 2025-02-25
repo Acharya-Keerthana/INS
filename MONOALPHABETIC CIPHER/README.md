@@ -43,8 +43,7 @@ Ciphertext: itssg
 
 ## Limitations  
 - The replacement alphabet must contain **exactly 26 unique lowercase letters**.  
-- Only lowercase letters are encrypted (uppercase letters remain unchanged). 
- 
-
-## License  
-This script is open-source and can be used for educational purposes.
+- Only lowercase letters are encrypted (uppercase letters remain unchanged).
+  
+## Online demo
+you can run this code directly via https://onlinegdb.com/F5l_QyRc9
