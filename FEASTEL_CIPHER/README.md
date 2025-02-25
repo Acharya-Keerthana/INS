@@ -30,11 +30,9 @@ This Python script implements a basic Feistel-like encryption and decryption pro
    - The decrypted text (which may not always match the original text exactly due to binary transformations).
 
 ## Example
-```
-Enter a string: Hello
-Enter a key: Key123
-Ciphertext (binary): 110010101011...
-Decrypted text: [Unreadable characters due to binary transformation]
-```
 
 ![alt text](image.png)
+
+## Online demo
+you can run this code directly via https://onlinegdb.com/YaJrNDHxV
+
