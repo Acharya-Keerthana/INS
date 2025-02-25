@@ -35,8 +35,5 @@ OUTPUT
 ![SmartSelect_20250204_124302_Dropbox.jpg](https://github.com/user-attachments/assets/361107fe-cea9-48c5-ac17-4446741751df)
 
 
-## License  
-This script is open-source and can be used for educational purposes.
-
-## Online
-https://onlinegdb.com/O2a1oMrUl
+## Online demo
+you can run this code directly via https://onlinegdb.com/O2a1oMrUl
