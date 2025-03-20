@@ -56,9 +56,9 @@ This Python script implements a basic RSA encryption and decryption process usin
    - The decrypted message.
 
 ## Example
-```
+
 ![alt text](image.png)
-```
+
 
 ## Online Demo
 You can run this code directly via [OnlineGDB](https://onlinegdb.com/dehaPA5z8).
