@@ -34,5 +34,5 @@ This Python script implements a basic Feistel-like encryption and decryption pro
 ![alt text](image.png)
 
 ## Online demo
-you can run this code directly via https://onlinegdb.com/YaJrNDHxV
+you can run this code directly via. https://onlinegdb.com/YaJrNDHxV
 

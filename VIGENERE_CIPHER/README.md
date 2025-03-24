@@ -48,7 +48,7 @@ This Python script provides simple functions to encrypt and decrypt text using t
 ![alt text](image.png)
 
 ## Online demo
-you can run this code directly via https://onlinegdb.com/VZFL1Ob0E
+you can run this code directly via. https://onlinegdb.com/VZFL1Ob0E
 
 
 
